@@ -4,7 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is the same as favorite_places_app, but using Google Maps Platform instead of APIs belonging to LocationIQ.
+
+- [Favorite Places App](https://github.com/phammaidung/FavoritePlacesApp.git)
 
 A few resources to get you started if this is your first Flutter project:
 
